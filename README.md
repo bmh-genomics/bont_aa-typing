@@ -1,7 +1,7 @@
 # bont_aa-typing
 Serotyping and subtyping database for bont sequences. Amino acid fasta file. 
 
-Amino acid sequences for the following serotypes/subtypes were selected from bontbase.org on 20210920 (YYYYMMDD) to represent each serotype and subtype (additional variants were not included).
+Amino acid sequences for the following serotypes/subtypes were selected from https://bontbase.org on 20210920 (YYYYMMDD) to represent each serotype and subtype (additional variants were not included).
 
 BoNT/A: A1, A2, A3, A4, A5, A6, A7, A8.
 
